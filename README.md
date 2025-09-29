@@ -18,13 +18,12 @@ Quick, satisfying puzzles centered on colored cubes, built for short mobile sess
 
 ## 📸 Screenshots
 
-```html
 <p align="center">
   <img src="docs/screenshot-1.png" width="280">
   <img src="docs/screenshot-2.png" width="280">
   <img src="docs/screenshot-3.png" width="280">
 </p>
-```
+
 
 
 ---
